@@ -1,0 +1,18 @@
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\bin\Debug\Cliente.exe.config
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\bin\Debug\Cliente.exe
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\bin\Debug\Cliente.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\bin\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\bin\Debug\Core.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\obj\Debug\Cliente.exe
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Cliente\obj\Debug\Cliente.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\bin\Debug\Cliente.exe.config
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\bin\Debug\Cliente.exe
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\bin\Debug\Cliente.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\bin\Debug\Core.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\bin\Debug\Core.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.exe
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.pdb

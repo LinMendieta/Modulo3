@@ -1,0 +1,40 @@
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\CoreTest.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\CoreTest.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Castle.Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Cliente.exe
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Moq.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Cliente.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Core.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Castle.Core.xml
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\Moq.xml
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\obj\Debug\CoreTest.csprojResolveAssemblyReference.cache
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\obj\Debug\CoreTest.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\CoreTest\obj\Debug\CoreTest.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\CoreTest.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\CoreTest.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Castle.Core.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Cliente.exe
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Core.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Moq.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Cliente.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Cliente.exe.config
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Core.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Castle.Core.xml
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\Moq.xml
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.csprojAssemblyReference.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.csproj.CoreCompileInputs.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.csproj.CopyComplete
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.pdb

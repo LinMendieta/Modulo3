@@ -1,0 +1,11 @@
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\bin\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\bin\Debug\Core.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\bin\Debug\Core.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\bin\Debug\Core.pdb
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.dll
+C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.pdb
