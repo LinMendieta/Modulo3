@@ -1,0 +1,5 @@
+Git Add . ---> anadir todos los archivos nuevos
+Git commit -m 'mensaje' --> mover los archivos de memoria local a memoria para subir
+Git push --> subir todos los cambios q se hicieron con el commit
+
+Git status --> verficar si se ejecuto el comando
