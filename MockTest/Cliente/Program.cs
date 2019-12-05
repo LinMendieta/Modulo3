@@ -11,25 +11,20 @@ namespace Cliente
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("##############################################");
+            Console.WriteLine("=============================");
             IServicio serv = new Servicio();
             try
             {
-                Admin admin = new Admin("agustin", "123", serv);
+                Admin admin = new Admin("Lineth", "123", serv);
                 List<Alumno> ListaNota = admin.GetNotas();
+                 ListaNota = admin.GetEstado();
                 foreach (var item in ListaNota)
                 {
                     Console.WriteLine("CI:{0} - Nombre:{1} - Nota:{2} - Estado:{3}",
                         item.CI, item.Nombre, item.Nota, item.Estado);
                 }
-                Console.WriteLine("##############################################");
-                ListaNota = admin.GetEstado();
-                foreach (var item in ListaNota)
-                {
-                    Console.WriteLine("CI:{0} - Nombre:{1} - Nota:{2} - Estado:{3}",
-                        item.CI, item.Nombre, item.Nota, item.Estado);
-                }
-                Console.WriteLine("##############################################");
+                
+                Console.WriteLine("=============================");
 
 
             }

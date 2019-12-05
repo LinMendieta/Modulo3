@@ -38,3 +38,22 @@ C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTe
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.csproj.CopyComplete
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.dll
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\CoreTest\obj\Debug\CoreTest.pdb
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\CoreTest.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\CoreTest.pdb
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Castle.Core.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Cliente.exe
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Core.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Moq.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Cliente.pdb
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Core.pdb
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Castle.Core.xml
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\Moq.xml
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\obj\Debug\CoreTest.csprojResolveAssemblyReference.cache
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\obj\Debug\CoreTest.dll
+H:\DiplomadoGit\Modulo3\MockTest\CoreTest\obj\Debug\CoreTest.pdb

@@ -9,3 +9,8 @@ C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.cspro
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.dll
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Core\obj\Debug\Core.pdb
+H:\DiplomadoGit\Modulo3\MockTest\Core\bin\Debug\Core.dll
+H:\DiplomadoGit\Modulo3\MockTest\Core\bin\Debug\Core.pdb
+H:\DiplomadoGit\Modulo3\MockTest\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+H:\DiplomadoGit\Modulo3\MockTest\Core\obj\Debug\Core.dll
+H:\DiplomadoGit\Modulo3\MockTest\Core\obj\Debug\Core.pdb

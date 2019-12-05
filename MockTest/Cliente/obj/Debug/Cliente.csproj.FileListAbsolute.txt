@@ -16,3 +16,11 @@ C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.csproj.CopyComplete
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.exe
 C:\Agustin\Diplomat\Modulo 2\Claudio\mockTest\MockTest\Cliente\obj\Debug\Cliente.pdb
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\bin\Debug\Cliente.exe.config
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\bin\Debug\Cliente.exe
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\bin\Debug\Cliente.pdb
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\bin\Debug\Core.dll
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\bin\Debug\Core.pdb
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\obj\Debug\Cliente.exe
+H:\DiplomadoGit\Modulo3\MockTest\Cliente\obj\Debug\Cliente.pdb

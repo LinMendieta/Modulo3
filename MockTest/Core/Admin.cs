@@ -13,7 +13,7 @@ namespace Core
         IServicio serv;
         public Admin(string user, string password, IServicio serv)
         {
-            if (user == "agustin" && password == "123")
+            if (user == "Lineth" && password == "123")
             {
                 token = "Token Valido";
             }
@@ -35,6 +35,8 @@ namespace Core
             ListaAlumnos = serv.GetAlumnos();
             foreach (var alumno in ListaAlumnos)
             {
+                if (alumno.CI == 500)
+                    alumno.Nota = 0;
                 alumno.Estado = serv.GetEstado(alumno.Nota);
             }
             return ListaAlumnos;

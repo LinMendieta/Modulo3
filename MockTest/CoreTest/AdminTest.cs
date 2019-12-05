@@ -62,9 +62,9 @@ namespace CoreTest
             ListaAlumnos.Add(new Alumno() { CI = 500, Nombre = "Maria" , Nota = 40});
             Mock<IServicio> mockServicio = new Mock<IServicio>();
             mockServicio.Setup(g => g.GetAlumnos()).Returns(ListaAlumnos);
-            mockServicio.Setup(e => e.GetEstado(It.IsAny<int>())).Returns("Aprovado");
-            Admin admin = new Admin("agustin", "11", mockServicio.Object);
-            Assert.AreEqual("Aprovado1", admin.GetEstado()[0].Estado);
+            mockServicio.Setup(e => e.GetEstado(It.IsAny<int>())).Returns("Aprobado");
+            Admin admin = new Admin("Lineth", "11", mockServicio.Object);
+            Assert.AreEqual("Aprobado", admin.GetEstado()[0].Estado);
         }
     }
 }
